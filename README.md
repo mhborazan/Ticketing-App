@@ -4,6 +4,6 @@ It is simple a Next.Js CRUD example with MongoDB Atlas.
 
 You can create, read, update and delete tickets.
 
-npm i
+`npm i`
 
-npm run dev
+`npm run dev`
